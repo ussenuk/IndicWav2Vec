@@ -15,3 +15,4 @@ tensorboardX==2.1
 wandb 
 jiwer 
 jupyterlab
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
